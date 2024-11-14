@@ -4,9 +4,9 @@
 
 ## 链接前缀
 
-- https://cdn.jsdelivr.net/gh/cafekiller/cafe.cdn 
-- https://fastly.jsdelivr.net/gh/cafekiller/cafe.cdn
-- https://gcore.jsdelivr.net/gh/cafekiller/cafe.cdn
+- //cdn.jsdelivr.net/gh/cafekiller/cafe.cdn 
+- //fastly.jsdelivr.net/gh/cafekiller/cafe.cdn
+- //gcore.jsdelivr.net/gh/cafekiller/cafe.cdn
 
 > 以上三个链接均可使用，但是在部分网络环境下可能会无法访问。
 
